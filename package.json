@@ -1,0 +1,17 @@
+{
+  "name": "owo_hunt_bot_code_by_sonez",
+  "version": "1.0.0",
+  "description": "OwO Para&Xp Kasma Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "𓆰Søneż#9999",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "discord.js": "11.6.4",
+    "orio.db": "^3.0.1",
+    "pogger": "^0.0.8"
+  }
+}
